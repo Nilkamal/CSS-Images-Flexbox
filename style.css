@@ -1,0 +1,27 @@
+body {
+text-align: center;
+}
+img {
+	height: 350px;
+	width: 400px;
+	margin: 10px;
+	border: 2px solid #88CC88;
+}
+
+h1 {
+	font-family: fantasy;
+	text-align: center;
+	border-bottom: 1px solid #88CC88;
+	margin: 0 125px 0 125px;
+		width: auto;
+	font-size: 3em;
+	color: #2D882D;
+
+}
+.container {
+	padding: 25px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
